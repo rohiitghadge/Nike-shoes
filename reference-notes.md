@@ -1,0 +1,3 @@
+# Pinterest Reference Notes
+
+The provided Pinterest pin is a short sneaker product video titled “Product video of sneakers, a play of light, texture, and detail.” The visual language is dark and product-led, with the shoe isolated against black, a strong central silhouette, deep negative space, and restrained white technical typography. The intended hero should feel compact and intentional, closer to one focused viewport or a short scroll chapter than a long empty cinematic hold. The current blank-space issue comes from the hero parent being 400vh even though the implementation uses a still image rather than a full video journey. The redesign will use a shorter scroll window, a black product stage, tighter copy positioning, and a quick handoff to the editorial section.
